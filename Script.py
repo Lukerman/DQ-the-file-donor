@@ -190,19 +190,15 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ <a href=https://t.me/cinema4587 > ᴄʜᴀɴɴᴇʟ </a> 
-
-▫️ <a href=https://t.me/ccupdate12 > ᴄʜᴀɴɴᴇʟ </a> 
-=========== • ✠ • ===========</b>"""
+        CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
+  
+  
+  
+ ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
+ ▫️<a href=https://t.me/xyz_botz> ᴄʜᴀɴɴᴇʟ </a> 
+  
+ ▫️<a href=https://t.me/Elsasupportgp> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a> 
+ ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
