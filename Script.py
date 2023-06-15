@@ -199,8 +199,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : t.me/ccupdates12 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : t.me/cinema4587
+▫️ ᴄʜᴀɴɴᴇʟ : < a href=https://t.me/ccupdates12>channels <\a>
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : < a href=https://t.me/cinema4587>channels <\a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
