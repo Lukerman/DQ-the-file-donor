@@ -190,7 +190,8 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
+    CAPTION = """
+<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
   
   
   
