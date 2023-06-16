@@ -190,15 +190,15 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-        CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
+    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} 
   
   
   
- ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
- ▫️<a href=https://t.me/ccupdates12> ᴄʜᴀɴɴᴇʟ </a> 
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
+▫️<a href=https://t.me/ccupdates12> ᴄʜᴀɴɴᴇʟ </a> 
   
- ▫️<a href=https://t.me/cinema4587> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a> 
- ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+▫️<a href=https://t.me/cinema4587> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a> 
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
