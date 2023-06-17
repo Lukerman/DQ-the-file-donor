@@ -1,10 +1,11 @@
 FROM python:3.10.8-slim-buster
 
-RUN apt update && apt upgrade -y
-RUN apt install git -y
+#RUN apt update && apt upgrade -y
+#RUN apt install git -y
 COPY requirements.txt /requirements.txt
 WORKDIR /music
 RUN chmod 777 /music
+RUN ls
 RUN pip3 install --upgrade  pip && pip3 install -r requirements.txt
 RUN mkdir /DQ-the-file_donor
 WORKDIR /DQ-the-file-donor
