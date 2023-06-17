@@ -3,7 +3,7 @@ FROM python:3.10.8-slim-buster
 #RUN apt update && apt upgrade -y
 #RUN apt install git -y
 COPY  requirements.txt .
-RUN ls -a
+RUN cd root/ &&  ls -a
 RUN mkdir /DQTheFileDonor 
 WORKDIR /DQTheFileDonor
 RUN pip3 install --upgrade  pip 
