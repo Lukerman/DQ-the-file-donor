@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/DQ_The_File_Donor_Updates'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/cinema4587'>Itz.me.dawn</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -196,9 +196,9 @@ Nᴀᴍᴇ - {}"""
   
   
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
-▫️<a href='https://t.me/ccupdates12'> ᴄʜᴀɴɴᴇʟ </a> 
+▫️<a href=https://t.me/ccupdates12> ᴄʜᴀɴɴᴇʟ </a> 
   
-▫️<a href='https://t.me/cinema4587'> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a> 
+▫️<a href=https://t.me/cinema4587> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a> 
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
