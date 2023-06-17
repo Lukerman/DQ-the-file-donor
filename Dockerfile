@@ -4,8 +4,8 @@ FROM python:3.10.8-slim-buster
 #RUN apt install git -y
 COPY requirements.txt .
 RUN ls -a /root
-RUN mkdir /DQTheFileDonor 
-WORKDIR /DQTheFileDonor
+#RUN mkdir /DQTheFileDonor 
+#WORKDIR /DQTheFileDonor
 RUN pip3 install --upgrade pip 
 RUN pip3 install -r requirements.txt
 COPY start.sh /start.sh
