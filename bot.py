@@ -23,10 +23,10 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            name=SESSION,
-            api_id=API_ID,
-            api_hash=API_HASH,
-            bot_token=BOT_TOKEN,
+            name=AJAX,
+            api_id=15762061,
+            api_hash=364d3fa8f95aae815d62cf981ab1afe3,
+            bot_token=6290387995:AAHlI0m0-pSmaCd1wVTUMVv5h3Uj8hJAOmE,
             workers=200,
             plugins={"root": "plugins"},
             sleep_threshold=10,
