@@ -8,5 +8,7 @@ COPY requirements.txt .
 RUN pip3 install --upgrade pip 
 #RUN apt install neofetch -y && neofetch
 RUN pip3 install -r requirements.txt
-COPY start.sh /start.sh
-CMD ["/bin/bash", "/start.sh"]
+#COPY start.sh /start.sh
+COPY bot.py .
+RUN python3 bot.py
+#CMD ["/bin/bash", "/start.sh"]
